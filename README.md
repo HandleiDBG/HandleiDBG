@@ -1,5 +1,8 @@
-![HandleiDBG's GitHub stats](https://github-readme-stats-sable-five-74.vercel.app/api?username=HandleiDBG&theme=radical)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=902c5b&height=120&section=header"/>
 
-![Linguagens Mais Usadas](https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=HandleiDBG&layout=compact&theme=radical)
-
-[![GitHub](https://img.shields.io/github/followers/HandleiDBG?label=Seguidores&style=social)](https://github.com/HandleiDBG?tab=followers)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sable-five-74.vercel.app/api?username=HandleiDBG&show_icons=true&count_private=true&theme=radical" alt="HandleiDBG github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=HandleiDBG&layout=compact&theme=radical" />
+</div>
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=902c5b&height=120&section=footer"/>
