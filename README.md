@@ -1,4 +1,4 @@
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HandleiDBG&show_icons=true&theme=radical)
+[![HandleiDBG's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandleiDBG&theme=radical)](https://github.com/HandleiDBG/github-readme-stats)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HandleiDBG&layout=compact&theme=radical)
 
